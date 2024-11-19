@@ -9,8 +9,3 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-
-# Don't sync any content.
-# Content will be synced from the Obsidian vault repo when building the site.
-content
-content/
