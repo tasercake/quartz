@@ -7,7 +7,7 @@ title:
 Here's a few problems I've been thinking about lately, organized by topic:
 # 🚦 [[AsyncIO's blocking call problem|AsyncIO's blocking call problem]] (Python)
 - [[Debugging asyncio performance]]
-- [[Python asyncio blocking analysis]]
+- [[Static analysis of blocking calls in async Python]]
 # 🎸 [[AI Music Generation]]
 # 🧭 [[Async ODM for DynamoDB in Python|AsyncIO-compatible DynamoDB ODM for Python]]
 

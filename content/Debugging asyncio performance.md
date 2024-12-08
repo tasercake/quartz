@@ -65,7 +65,7 @@ These are also runtime-only checks, which means that unless your test suite's co
 
 # Related
 
-- I explore building a static analyzer for blocking asyncio calls in [[Python asyncio blocking analysis]] to get around some of these issues
+- I explore building a static analyzer for blocking asyncio calls in [[Static analysis of blocking calls in async Python]] to get around some of these issues
 - [[AsyncIO's blocking call problem]]
 - [[Rust]] seems to have the same problem: https://github.com/rust-lang/wg-async/issues/19
 - https://stackoverflow.com/questions/57190115/discover-what-is-blocking-the-event-loop

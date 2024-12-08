@@ -6,4 +6,4 @@ If you're new here, try reading these:
 
 [[AsyncIO's blocking call problem]]
 [[Debugging asyncio performance]]
-[[Python asyncio blocking analysis]]
+[[Static analysis of blocking calls in async Python]]

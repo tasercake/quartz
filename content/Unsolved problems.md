@@ -6,5 +6,5 @@ If you've also experienced any of these and want to talk about it (and potential
 
 # Web development
 
-- [[Python asyncio blocking analysis]]
+- [[Static analysis of blocking calls in async Python]]
 - A good [[Async ODM for DynamoDB in Python]]
